@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\herna\\Documents\\AndroidProjects\\SM-L200_Plugin\\SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\herna\\.android\\build-cache\\b17070ca264801ef14f2902b066d749443fda6bb\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\herna\\Documents\\AndroidProjects\\SM-L200_Plugin\\SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\herna\\.android\\build-cache\\b17070ca264801ef14f2902b066d749443fda6bb\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\herna\\Documents\\AndroidProjects\\SM-L200_Plugin\\SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\herna\\.android\\build-cache\\b17070ca264801ef14f2902b066d749443fda6bb\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\herna\\Documents\\AndroidProjects\\SM-L200_Plugin\\SDK\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\herna\\.android\\build-cache\\b17070ca264801ef14f2902b066d749443fda6bb\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

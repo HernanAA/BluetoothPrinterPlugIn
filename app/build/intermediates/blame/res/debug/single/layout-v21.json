@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\herna\\Documents\\AndroidProjects\\SM-L200_Plugin\\SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\herna\\.android\\build-cache\\b17070ca264801ef14f2902b066d749443fda6bb\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\herna\\Documents\\AndroidProjects\\SM-L200_Plugin\\SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\herna\\.android\\build-cache\\b17070ca264801ef14f2902b066d749443fda6bb\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\herna\\Documents\\AndroidProjects\\SM-L200_Plugin\\SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\herna\\.android\\build-cache\\b17070ca264801ef14f2902b066d749443fda6bb\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\herna\\Documents\\AndroidProjects\\SM-L200_Plugin\\SDK\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\herna\\.android\\build-cache\\b17070ca264801ef14f2902b066d749443fda6bb\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:7:22-71
+application
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:9:5-28:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\herna\.android\build-cache\b17070ca264801ef14f2902b066d749443fda6bb\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\herna\.android\build-cache\be66463deda69106d5d2c0a6894ad741b8b2e034\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\herna\.android\build-cache\339b535fd1dcd562c2b4baf72c55710a98f54352\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\herna\.android\build-cache\de8e3cde9cb4bce1c7bb02d7485e1340cfef6d03\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\herna\.android\build-cache\3cf061a979a23089483c90d488016873dcfc265d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\herna\.android\build-cache\6898a1e947ba1210d10510026008f6d0f3f9ce92\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\herna\.android\build-cache\b4f18e6a81583d2cbe8a204c1e33f63b50d4786e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\herna\.android\build-cache\e6f18ed6dfb0afb55b429dd19293dfed3147df2a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\herna\.android\build-cache\dcb12cb47f91e848e9c9641340fefdf2b9140421\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:11:9-42
+	android:theme
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.starmicronics.starprntsdk.MainActivity
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:15:9-26:20
+	android:screenOrientation
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:18:13-49
+	android:label
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:22:27-74
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:23:17-90
+	android:name
+		ADDED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml:23:25-87
+uses-sdk
+INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:smcloudservices:] C:\Users\herna\.android\build-cache\3d2643a0eae18ca6b6dcf30fc92477552a7105e7\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\herna\.android\build-cache\b17070ca264801ef14f2902b066d749443fda6bb\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\herna\.android\build-cache\be66463deda69106d5d2c0a6894ad741b8b2e034\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\herna\.android\build-cache\339b535fd1dcd562c2b4baf72c55710a98f54352\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\herna\.android\build-cache\de8e3cde9cb4bce1c7bb02d7485e1340cfef6d03\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\herna\.android\build-cache\3cf061a979a23089483c90d488016873dcfc265d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\herna\.android\build-cache\6898a1e947ba1210d10510026008f6d0f3f9ce92\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\herna\.android\build-cache\b4f18e6a81583d2cbe8a204c1e33f63b50d4786e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\herna\.android\build-cache\e6f18ed6dfb0afb55b429dd19293dfed3147df2a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\herna\.android\build-cache\dcb12cb47f91e848e9c9641340fefdf2b9140421\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\herna\.android\build-cache\b17070ca264801ef14f2902b066d749443fda6bb\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\herna\Documents\AndroidProjects\SM-L200_Plugin\SDK\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\herna\.android\build-cache\b17070ca264801ef14f2902b066d749443fda6bb\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\herna\.android\build-cache\be66463deda69106d5d2c0a6894ad741b8b2e034\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\herna\.android\build-cache\339b535fd1dcd562c2b4baf72c55710a98f54352\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\herna\.android\build-cache\de8e3cde9cb4bce1c7bb02d7485e1340cfef6d03\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\herna\.android\build-cache\3cf061a979a23089483c90d488016873dcfc265d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\herna\.android\build-cache\6898a1e947ba1210d10510026008f6d0f3f9ce92\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\herna\.android\build-cache\b4f18e6a81583d2cbe8a204c1e33f63b50d4786e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\herna\.android\build-cache\e6f18ed6dfb0afb55b429dd19293dfed3147df2a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\herna\.android\build-cache\dcb12cb47f91e848e9c9641340fefdf2b9140421\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\herna\.android\build-cache\b17070ca264801ef14f2902b066d749443fda6bb\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\herna\.android\build-cache\b17070ca264801ef14f2902b066d749443fda6bb\output\AndroidManifest.xml:26:9-47
